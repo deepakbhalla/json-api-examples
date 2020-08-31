@@ -1,0 +1,14 @@
+[
+	{
+		"userId": 1,
+		"id": 1,
+		"title": "this is the title of user 1",
+		"body": "this is the body of the user 1"
+	},
+	{
+		"userId": 1,
+		"id": 1,
+		"title": "this is the title of user 2",
+		"body": "this is the body of the user 2"
+	}
+]
